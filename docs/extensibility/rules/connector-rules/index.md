@@ -97,7 +97,7 @@ For the `PATCH` operations, you must provide an `op` key. For new configurations
 
 ## Example API calls by Rule Type
 
-### BeforeProvisioning Rule
+### BeforeProvisioning Rule       ## This information would be better placed in the Cloud connector rules section (which is what it is), rather than here in the connector executed rules (which it is not)
 
 `PATCH` /v3/sources/[id]
 
